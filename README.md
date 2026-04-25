@@ -41,10 +41,3 @@ I like building infrastructure: agent servers, networked systems, developer tool
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">
 </p>
-
-### GitHub Snapshot
-
-<p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeremyGuo&show_icons=true&hide_border=true&theme=transparent">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyGuo&layout=compact&hide_border=true&theme=transparent">
-</p>
