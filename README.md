@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm JeremyGuo</h1>
-<h3 align="center">CS @ Peking University · systems, networking, AI infrastructure</h3>
+<h3 align="center">CS @ Peking University & DeepSeek AI · systems, networking, AI infrastructure</h3>
 
 <p align="center">
   <a href="mailto:jeremyguo@pku.edu.cn">
